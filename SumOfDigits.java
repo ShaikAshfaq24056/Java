@@ -17,7 +17,7 @@ public class SumOfDigits
          num = num/10;
       }
           if(sum>9){
-            System.out.println("\nSum is Double digit number" );
+            System.out.println("\nSum is = " +sum +" Sum is more than one digit number" );
       }
           else{
       System.out.println("\nSum of Digits = " +sum);
